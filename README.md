@@ -12,7 +12,7 @@ qaoa-grover_allequal contains code for comparing QAOA algorithm and Grover's alg
 for the search problem given that the angles that define QAOA are all equal (driver and diffusion hamiltonian)
 
 qaoa-grover_diffusordifferent contains code for comparing QAOA algorithm and Grover's algorithm 
-for the search problem given that the angles of driver hamiltonian are all equal to \pi and the angles of diffusion hamiltonian are all different
+for the search problem given that the angles of driver hamiltonian are all equal to $\pi$ and the angles of diffusion hamiltonian are all different
 
 3D-plot contains code for recreating the 3d plot used in the article Variationally Learning Grover's Quantum Search Algorithm using the matrix obtained in the article.
 
