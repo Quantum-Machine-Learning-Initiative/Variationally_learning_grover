@@ -15,5 +15,7 @@ for the search problem given that the angles of driver hamiltonian are all equal
 
 3D-plot contains code for recreating the 3d plot used in the article Variationally Learning Grover's Quantum Search Algorithm using the matrix obtained in the article.
 
+noise containd code for reproducing plot for noisy simulations. This file requires the Pyquil library.
+
 The code is based on the Quantum information toolkit (QIT) library http://qit.sourceforge.net/
 
